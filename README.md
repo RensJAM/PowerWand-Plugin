@@ -69,4 +69,4 @@ freezeTime: 3
 
 ## Author
 
-Created by RensJam as a learning project while exploring Java and Paper plugin development.
+Created by RensJAM as a learning project while exploring Java and Paper plugin development.
