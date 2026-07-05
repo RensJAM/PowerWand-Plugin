@@ -1,0 +1,6 @@
+freezeRange: 100 # in Blocks
+freezeTime: 3 # in Seconds
+
+lightningRange: 100 # in Blocks
+
+cooldownTime: 0 # in Seconds

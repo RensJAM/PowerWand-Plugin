@@ -1,0 +1,19 @@
+name: PowerWand
+description: $description
+version: '${version}'
+
+main: com.rensjam.PowerWand.PowerWand
+api-version: '26.1.2'
+load: POSTWORLD
+
+authors: [ RensJAM ]
+
+commands:
+    lightningstick:
+      description: Gives executor the almighty LightningStick
+      usage: /lightningstick
+      permission: powerwand.lightningstick
+    freezestick:
+      description: Gives executor the almighty FreezeStick
+      usage: /freezestick
+      permission: powerwand.freezestick
