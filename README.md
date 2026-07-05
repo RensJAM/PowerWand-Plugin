@@ -1,5 +1,4 @@
 # PowerWand-Plugin
-# StickLightning
 
 A simple Minecraft Paper plugin that adds special ability sticks with configurable cooldowns and ranges.
 
