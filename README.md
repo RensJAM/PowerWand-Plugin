@@ -67,15 +67,6 @@ freezeTime: 3
 
 ---
 
-## Planned Features
-
-* Knockback Stick
-* Improved freeze mechanics
-* Additional particle effects
-* More configurable abilities
-
----
-
 ## Author
 
 Created by RensJam as a learning project while exploring Java and Paper plugin development.
